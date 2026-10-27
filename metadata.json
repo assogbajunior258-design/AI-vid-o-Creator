@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator",
+  "description": "Studio SaaS de création vidéo IA pour réseaux sociaux et créateurs de contenu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
